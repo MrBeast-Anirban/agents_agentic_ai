@@ -1,0 +1,4 @@
+Working Agent: Weather Reporter
+Starting Task: Fetch the current temperature and weather conditions of the user's location. ...
+Task output: The current temperature in Jodhpur is 27.67°C. The weather conditions are clear sky.
+The current temperature in Jodhpur is 27.67°C. The weather conditions are clear sky.

@@ -1,0 +1,7 @@
+crewai
+scikit-learn
+numpy
+requests 
+beautifulsoup4 
+google-search-results
+sentence_transformers

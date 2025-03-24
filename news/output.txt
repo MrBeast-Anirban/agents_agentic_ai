@@ -1,0 +1,40 @@
+- Title: Senate Confirms Linda McMahon as Education Secretary
+  Description: Ms. McMahon, who has little experience in private or public schools, will take over a department that President Trump has already begun to dismantle.
+  URL: https://www.nytimes.com/2025/03/03/us/politics/linda-mcmahon-education-secretary.html
+
+- Title: Education Dept. Workers Offered Buyouts Ahead of ‘Very Significant’ Layoffs
+  Description: An email was sent to staff members outlining the offer on Friday, with a deadline of Monday.
+  URL: https://www.nytimes.com/2025/02/28/us/politics/education-department-buyout-email.html
+
+- Title: Education Dept. Gives Schools Two Weeks to Eliminate Race-Based Programs
+  Description: The department’s Office for Civil Rights warned that it would penalize schools that consider race in scholarships, hiring and an array of other activities.
+  URL: https://www.nytimes.com/2025/02/17/us/politics/education-dept-race-based-programs.html
+
+- Title: Federal Judge Declines to Block Musk’s Team From Having Access to Education Data
+  Description: The ruling said that the students who sued had failed to show that sensitive information had been illegally disseminated in a way that would justify an emergency restraining order.
+  URL: https://www.nytimes.com/2025/02/17/us/politics/doge-education-department-data.html
+
+- Title: What Does the Department of Education Actually Do?
+  Description: Even as President Trump has vowed to close the Education Department, he has sought to use the agency’s powers. Dana Goldstein, a reporter covering education and families for The New York Times, describes what the department does and does not do.
+  URL: https://www.nytimes.com/video/education/100000009977257/what-does-the-department-of-education-actually-do.html
+
+- Title: Linda McMahon Lays Out Plan for a Diminished Education Dept.
+  Description: During a Senate confirmation hearing, President Trump’s pick for education secretary spoke about her priorities for the department, which the White House has discussed closing.
+  URL: https://www.nytimes.com/2025/02/13/us/politics/linda-mcmahon-confirmation-hearing-education-secretary.html
+
+- Title: Democrats Block Bill to Bar Transgender Girls From Female Sports Teams
+  Description: Republicans argued the bill was essential to protecting women and girls, but also made clear they were bringing it up to portray Democrats as outside the mainstream. It stalled in the Senate.
+  URL: https://www.nytimes.com/2025/03/03/us/politics/democrats-transgender-girls-sports.html
+
+- Title: A Black Studies Curriculum Is (Defiantly) Rolling Out in New York City
+  Description: Educators are embracing rather than restricting discussions of race in schools. Leaders have said they’ll do so whether the Trump administration approves or not.
+  URL: https://www.nytimes.com/2025/03/03/nyregion/black-studies-nyc-trump-executive-orders.html
+
+- Title: How Linda McMahon Got to Be Trump’s Education Secretary Pick
+  Description: Linda McMahon, a World Wrestling Entertainment mogul and longtime booster of President Trump who served in his first administration, is beginning her confirmation hearings as she seeks to lead the Department of Education. Zach Montague, a reporter for The New York Times covering the department, reviews her history.
+  URL: https://www.nytimes.com/video/education/100000009983424/mcmahon-trumps-education-choice.html
+
+- Title: Musk Team Announces Millions in Cuts to Education Dept. Amid Legal Pushback
+  Description: Elon Musk’s cost-cutting team said that it had “terminated” 89 of the department’s contracts, apparently targeting its research arm.
+  URL: https://www.nytimes.com/2025/02/11/us/politics/musk-doge-education-data.html
+
