@@ -7,7 +7,7 @@ def main():
     news_agent = NewsAgent()
 
     # Define the API key, query, and number of articles
-    api_key = "EgzM74IS0ptUg9b5jGqBgF4kSrcfIwUS"  # Replace with your New York Times API key
+    api_key = "####Removed This as of Now######"  # Replace with your New York Times API key
     query = "education"  # Query for education news
     page = 1  # Page number for pagination
 
