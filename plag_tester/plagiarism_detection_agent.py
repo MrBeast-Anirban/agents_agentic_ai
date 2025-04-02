@@ -11,7 +11,7 @@ class PlagiarismDetectionAgent(Agent):
             verbose=True
         )
 
-    def detect_plagiarism(self, text, threshold=0.5, num_results=5, api_key="5ab6c2ed2ef9f7725279723070a0667e867afe9aa879a2233bc327d373cda1e8"):
+    def detect_plagiarism(self, text, threshold=0.5, num_results=5, api_key="####Removed this as of now######"):
         """
         Detect plagiarism in a given text by searching the internet for similar content.
         
