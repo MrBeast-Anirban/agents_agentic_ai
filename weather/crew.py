@@ -7,7 +7,7 @@ def main():
     weather_agent = WeatherAgent()
 
     # Define the API key and city name
-    api_key = "d5f8d67fadcd1a693fcff4c654636fc0"  # Replace with your OpenWeatherMap API key
+    api_key = "####Removed this as of now####"  # Replace with your OpenWeatherMap API key
     city_name = "Jodhpur"  # Replace with your city name
 
     # Create a weather task
